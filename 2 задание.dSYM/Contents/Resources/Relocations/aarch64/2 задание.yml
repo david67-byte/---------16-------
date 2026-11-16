@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/david/Desktop/практика 16 ноября/2 задание"
+relocations:     []
+...
